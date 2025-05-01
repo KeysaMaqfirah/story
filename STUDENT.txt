@@ -1,0 +1,6 @@
+Nama: [Keysa Maqfirah]
+ID Dicoding: [FC189D5X0794]
+
+Catatan: Aplikasi ini menggunakan Leaflet untuk peta digital. 
+Tidak memerlukan API key khusus untuk layanan peta karena 
+menggunakan OpenStreetMap yang bersifat open source.
